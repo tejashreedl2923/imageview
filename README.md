@@ -1,4 +1,3 @@
-```markdown
 # Experiment 7
 
 ## Create an Adaptive UI using ListView and ImageView
@@ -353,7 +352,7 @@ The ListView allows the user to scroll through the complete list of students.
 | 10 | Rotate the device | UI adjusts according to the screen orientation |
 | 11 | Run on different screen sizes | ListView remains usable and properly arranged |
 ---
-```
+
 
 ## Screenshots
 
@@ -363,7 +362,7 @@ The ListView allows the user to scroll through the complete list of students.
 <img width="718" height="1598" alt="image" src="https://github.com/user-attachments/assets/b57fc451-d47d-4952-994f-b046d387ab88" />
 <img width="718" height="1598" alt="image" src="https://github.com/user-attachments/assets/e03efdf0-799c-4e9e-a6fd-6dc159c43c9f" />
 
-```
+
 ## Android Concepts Demonstrated
 
 ### Activity
